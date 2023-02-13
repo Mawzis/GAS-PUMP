@@ -1,5 +1,5 @@
 # GAS-PUMP
-The gas pump machine can sell gas where you get to input the amount 
+The gas pump machine can sell gas where you get to input the amount<br
 At the command interface, you input the amount ordered and hit the start button
 Once the start button is hit, the Amount and Litre starts to count, when the amount in the display is equials to the amount entered at the interface, it stops counting
 
