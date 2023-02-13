@@ -1,0 +1,148 @@
+
+.pump-body{
+    width: 80%;
+    margin: 0 auto;
+    padding-top: 20px;
+    background-color: rgb(206, 204, 204);
+}
+
+.company-name{
+    width: 800px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: green;
+    border-radius: 5px;
+    padding: 20px 20px;
+    color: white;
+}
+
+.inner-body{
+    width: 500px;
+    border-left: 60px solid black;
+    border-right: 60px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    top: -10px;
+}
+
+.motion-inner{
+    width: 300px;
+    margin: 0 auto;
+    border: 30px solid white;
+    border-radius: 10px;
+    background-color: black;
+}
+
+#motion{
+    width: 200px;
+    color: white;
+    margin: 0 auto;
+    padding: 25px 25px;
+    font-size: larger;
+    text-align: center;
+}
+
+.price-area{
+    margin-top: 80px;
+    padding-top: 20px;
+    border-right: 20px solid whitesmoke;
+    border-left: 20px solid whitesmoke;
+    border-bottom: 20px solid whitesmoke;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    background-color: black;
+}
+
+.price-container{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    margin: 0 auto;
+}
+
+.description{
+    color: white;
+    font-size: 1.3rem;
+    font-weight: bolder;
+}
+
+.price-display{
+    width: 60%;
+    background-color: white;
+    text-align: right;
+    font-size: 1.3rem;
+    font-weight: bolder;
+    padding-right: 5px;
+}
+
+
+
+            /* ------THE COMMAND INTERFACE STYLE------- */
+
+
+.command-area{
+    margin: 60px 0 120px 0;
+}
+
+.command-interface{
+    color: white;
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid white;
+}
+
+
+#command-display{
+    padding-top: 7px;
+}
+
+.command-display{
+    color: black;
+    background-color: white;
+    text-align: center;
+    font-size: 1.5rem;
+    font-weight: bolder;
+    width: 80%;
+    height: 40px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+button{
+    width: 3.5em;
+    margin: 10px 0 0 9px;
+    font-size: 1.1rem;
+}
+
+.start{
+    width: 7em;
+    font-size: 1.1rem;
+    margin: 10px 0 10px 55px;
+}
+
+
+            /* STYLE FOR BASE AREA */
+
+
+
+.base-area{
+    background-color: green;
+    width: 570px;
+    height: 500px;
+    margin-left: -33px;
+    margin-top: -45px;
+}
+
+#base-image{
+    width: 70%;
+    margin: 10px 0 0 90px;
+}
+
+.base-name{
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    font-weight: bolder;
+    padding-top: 50px;
+}
+
